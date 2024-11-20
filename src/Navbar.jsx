@@ -7,17 +7,17 @@ function Navbar() {
     <>
       <div className="navbar">
         <Link to="/" className="logo">
-          <img src={`${process.env.PUBLIC_URL}/LogoITR-60.jpeg`} alt="Instituto Técnico Renault" />
+          <img src={`${process.env.PUBLIC_URL}/LogoITR.jpg`} alt="fundacion" />
         </Link>
         <nav>
           <ul>
-            <li><Link to="/">Inicio</Link></li>
-            <li><Link to="/grupo1">Grupo 1</Link></li>
-            <li><Link to="/grupo2">Grupo 2</Link></li>
-            <li><Link to="/grupo3">Grupo 3</Link></li>
-            <li><Link to="/grupo4">Grupo 4</Link></li>
-            <li><Link to="/grupo5">Grupo 5</Link></li>
-            <li><Link to="/grupo6">Grupo 6</Link></li>
+          <li><Link to="/">INICIO</Link></li>
+            <li><Link to="/grupo1">¿QUIÈNES SOMOS?</Link></li>
+            <li><Link to="/grupo2">NUESTROS SERVICIOS</Link></li>
+            <li><Link to="/grupo3">EN QUÈ ESTAMOS</Link></li>
+            <li><Link to="/grupo4">CONTACTO</Link></li>
+            <li><Link to="/grupo5">¿COMO PUEDO PARTICIPAR?</Link></li>
+            <li><Link to="/grupo6">PREGUNTAS</Link></li>
           </ul>
         </nav>
       </div>

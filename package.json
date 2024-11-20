@@ -1,7 +1,7 @@
 {
-  "name": "enfermedades_mentales",
+  "name": "fundacion_fucrehu",
   "version": "0.1.0",
-  "homepage": "https://fedevirgolini-itr.github.io/enfermedades_mentales",
+  "homepage": "https://fedevirgolini-itr.github.io/fundacion_fucrehu",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",

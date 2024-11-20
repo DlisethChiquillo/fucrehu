@@ -142,41 +142,7 @@
 background-repeat: no-repeat;
   
 }
-.ansi-1 {
-  background-image: url("imgs/ansi-1.png");
-  width: 380px;
-  height: 385px;
-  background-size: contain;
-background-repeat: no-repeat;
-}
-.ansi-2 {
-  background-image: url("imgs/ansi-2.png");
-  width: 380px;
-  height: 385px;
-  background-size: contain;
-background-repeat: no-repeat;
-}
-.ansi-3 {
-  background-image: url("imgs/ansi-3.png");
-  width: 380px;
-  height: 385px;
-  background-size: contain;
-background-repeat: no-repeat;
-}
-.ansi-4 {
-  background-image: url("imgs/ansi-4.png");
-  width: 380px;
-  height: 385px;
-  background-size: contain;
-background-repeat: no-repeat;
-}
-.ansi-5 {
-  background-image: url("imgs/ansi-5.png");
-  width: 380px;
-  height: 385px;
-  background-size: contain;
-background-repeat: no-repeat;
-}
+
 /* Posiciones por defecto */
 .default-caer,
 .default-subir,

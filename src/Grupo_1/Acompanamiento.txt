@@ -54,7 +54,7 @@ export default function Acompanamiento() {
       <p class="whitep">
         Recuerda que cada persona es única, por lo que es importante adaptar tu
         apoyo a las necesidades específicas de la persona afectada.
-      </p>
-    </div>
-  );
-}
+     </p>
+   </div>
+ );
+} 

@@ -5,9 +5,12 @@ function Enfoques() {
     <section className="Enfoques">
       <div className='Enfoques-text'>
 
-        <h1>Enfoques de Tratamiento para el trastorno bipolar</h1>
-        <img class='enfoquesimg' src="https://mlerbztrsurp.i.optimole.com/cb:ZrOi.57abc/w:auto/h:auto/q:61/ig:avif/sm:0/f:best/https://adipa.cl/content/uploads/2023/05/trastorno-afectivo-bipolar-abordaje-en-salud-mental-adipa.jpg" alt="Descripción de la imagen" />
-        <p>El tratamiento del trastorno bipolar generalmente implica una combinación de medicamentos estabilizadores del estado de ánimo para controlar los altibajos emocionales, terapia para abordar aspectos psicológicos y, en algunos casos, procedimientos de estimulación cerebral, como la estimulación magnética transcraneal repetitiva (rTMS), para casos más resistentes.</p>
+        <h1>Donaciones en especie</h1>
+      <img className="image-left" src={`${process.env.PUBLIC_URL}/imagenes/imagen2.jpg`} alt="" />
+
+        <p>
+¿Cuentas con recursos físicos o materiales que puedan servir a nuestra causa? contáctanos y déjanos saber el modo en que puedes apoyarnos 
+</p>
 
       </div>
     </section>

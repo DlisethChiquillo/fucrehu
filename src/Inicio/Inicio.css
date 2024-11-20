@@ -4,7 +4,7 @@ body {
 
 .hero {
   height: 522px;
-  background: url('/public/cupula.jpg') center/cover no-repeat;
+  background: url('/public/cupula.png') center/cover no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;

@@ -59,20 +59,7 @@ function Ventana(props) {
         }
     }
 
-    return (
-        <div>
-     
-            <div style={{ left: xArray[0], top: yArray[0], position: 'absolute' }} className={`${props.mod}-ventana-1`} onClick={() => borrar(xArray[0], yArray[0])}></div>
-            <div style={{ left: xArray[1], top: yArray[1], position: 'absolute' }} className={`${props.mod}-ventana-2`} onClick={() => borrar(xArray[1], yArray[1])}></div>
-            <div style={{ left: xArray[2], top: yArray[2], position: 'absolute' }} className={`${props.mod}-ventana-3`} onClick={() => borrar(xArray[2], yArray[2])}></div>
-            <div style={{ left: xArray[3], top: yArray[3], position: 'absolute' }} className={`${props.mod}-ventana-4`} onClick={() => borrar(xArray[3], yArray[3])}></div>
-            <div style={{ left: xArray[4], top: yArray[4], position: 'absolute' }} className={`${props.mod}-ventana-5`} onClick={() => borrar(xArray[4], yArray[4])}></div>
-            <div style={{ left: xArray[5], top: yArray[5], position: 'absolute' }} className={`${props.mod}-ventana-6`} onClick={() => borrar(xArray[5], yArray[5])}></div>
-            <div style={{ left: xArray[6], top: yArray[6], position: 'absolute' }} className={`${props.mod}-ventana-7`} onClick={() => borrar(xArray[6], yArray[6])}></div>
-            <div style={{ left: xArray[7], top: yArray[7], position: 'absolute' }} className={`${props.mod}-ventana-8`} onClick={() => borrar(xArray[7], yArray[7])}></div>
-        </div>
-
-    );
+  
 }
 
 export default Ventana;

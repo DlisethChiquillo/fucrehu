@@ -4,9 +4,11 @@ function Conclusion() {
   return (
     <section className="Conclusion">
       <div className='Conclusion-text'>
-        <h1> Conclusiones y Recomendaciones </h1>
-        <img class='concluimg' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSnQJ7nFt_VsY3wlS6xhcutrLznmrVzLvLNw&usqp=CAU" alt="Descripción de la imagen" />
-        <p>En resumen, el trastorno bipolar es una condición compleja que requiere un enfoque <b>holístico</b> (enfoque que considera al individuo en su totalidad, abarcando aspectos físicos, mentales, emocionales y espirituales para promover la salud integral), para su manejo. Es fundamental que tanto los individuos afectados como sus seres queridos se informen sobre la enfermedad y estén preparados para abordar sus diversas facetas. Con el apoyo adecuado, la comprensión y el tratamiento adecuado, las personas con trastorno bipolar pueden llevar una vida plena y productiva.</p>
+        <h1> Alianzas y cooperación con otras entidades nacionales e internacionales. </h1>
+
+        <p>Si su entidad tiene objetivos afines a los nuestros podemos unir esfuerzos, creemos que con sinergia y cooperación se es más eficaz. [Contáctanos]. 
+</p>
+        <img className="image-left" src={`${process.env.PUBLIC_URL}/imagenes/Imagen1.png`} alt="" />
 
       </div>
     </section>

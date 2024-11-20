@@ -4,8 +4,8 @@ function Hero() {
   return (
     <section className="hero">
       <div className="hero-text">
-        <h1>Instituto Técnico Renault</h1>
-        <p>Desde 1962 encendiendo el motor de tu futuro.</p>
+        <h1>FuCreHu</h1>
+        <p>Desde 2004 creando un mejor futuro.</p>
       </div>
     </section>
   )

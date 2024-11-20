@@ -25,8 +25,8 @@
 .image-left,
 .image-right,
 .image-gif {
-    width: 300px;
-    height: 200px;
+    width: 500px;
+    height: 400px;
     display: flex;
     justify-content: center;
     align-items: center;

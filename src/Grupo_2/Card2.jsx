@@ -6,12 +6,9 @@ function Card2() {
   return (
     <Link to='/grupo2' className="group-card">
       <img alt='TDAH' src={FOTO3}/>
-      <h3>TDAH</h3>
-      <p>
-        Breve descripción:
-      </p>
-      <p>
-        El Trastorno por Déficit de Atención e Hiperactividad (TDAH) es un desorden neuropsiquiátrico del desarrollo que dificulta la capacidad de atención, el control de impulsos y la regulación de la actividad en quienes lo padecen.
+      <h3>NUESTROS SERVICIOS</h3>
+         <p>
+         La Fundación Crecimiento Humano genera y participa en proyectos de calidad con la concurrencia activa de los equipos de trabajo voluntario, empresas y entidades involucradas, familias y comunidad
       </p>
     </Link>
   )
